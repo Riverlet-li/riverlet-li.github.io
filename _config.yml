@@ -77,7 +77,6 @@ collections:
     permalink: /books/:year/:month/:day/:title/
     output: true
 
-# disqus
-disqus:
-    shortname: https-riverlet_li-github-io
+# Disqus settings（https://disqus.com/）
+disqus_username: riverlet_li
 
